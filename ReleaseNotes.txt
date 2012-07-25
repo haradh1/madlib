@@ -10,6 +10,15 @@ commit history located at https://github.com/madlib/madlib/commits/master.
 Current list of bugs and issues can be found at http://jira.madlib.net.
 
 --------------------------------------------------------------------------------
+MADlib v0.4.1
+
+Release Date:  2012-Jul-26
+
+Bug Fixes:
+* Build System:
+    - Fix assorted PGXN distribution issues (MADLIB-589)
+    - Fix Eigen download issue (MADLIB-604)
+
 MADlib v0.4
 
 Release Date:  2012-Jun-18
